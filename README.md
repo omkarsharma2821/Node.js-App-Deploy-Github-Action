@@ -175,6 +175,7 @@ docker compose down
 ```bash
 curl http://localhost:8080
 ```
+> _**Note: If you make any changes to the website, create a new build and run the command: docker compose up --build -d**_
 
 ## 9. Push Code to GitHub
 
